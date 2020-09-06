@@ -3,7 +3,8 @@
 程序代码：`littlePlayer.cpp`  
 创建工程：CMake  
 编译工程：VS 2019  
-项目中包括FFmpeg，SDL和openAL的库文件：`.dll`文件，`include`文件夹和`lib`文件夹    
+项目中包括FFmpeg，SDL和openAL的库文件：`.dll`文件，`include`文件夹和`lib`文件夹  
+已成功实现视音频同步播放
 ## 使用说明
 1.项目编译成功后，`build`文件夹中会生成`Debug`文件夹  
 2.`Debug`文件夹中会生成`littlePlayer.exe`应用程序文件  
